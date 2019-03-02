@@ -1,0 +1,2 @@
+# Food-Delivery-System-using-MySQL-and-PHP
+We will provide an easily accessible interface wherein the customer can view and place the order easily.  The customer can register initially with minimum details and will be allowed to check the menu items before ordering them, adding them to cart and submit the order. The system records the details in MySQL database so that it will be easy to retrieve later. The users of the system also include employee/admin who will handle info related to product addition and assigning vehicle for placed orders.
